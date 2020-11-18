@@ -14,9 +14,9 @@ yorumlayıcısı kurmalısınız.
 
  - Programı bir klasore açın.
  - Komut satırını çalıştırın. 
-   -Linux için:
+   - Linux için:
      - ctrl + alt + t
-   -Windows için:
+   - Windows için:
      - Windows tuşuna basın.
      - Ara
      - cmd + enter
