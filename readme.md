@@ -7,6 +7,8 @@ resmi gazete arşivinden link oluşturmaktır.
 
 Oluşan linkeleri e-posta aracılığı ile paylaşabilirsiniz.
 
+# Dikkat
+Program şuanda sadece 1985 yılını taramaktadır.
 
 # Kullanım
 Bu programı çalıştırmak için bilgisayarınıza ruby 2.6 
